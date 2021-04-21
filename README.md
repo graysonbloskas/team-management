@@ -12,3 +12,7 @@ I was tasked with creating an app that prompts a user, in integrated terminal, t
 
 https://user-images.githubusercontent.com/79467387/115496727-41c17d80-a238-11eb-9020-3ffa198ac658.mov
 
+## Video showing the application working
+
+https://user-images.githubusercontent.com/79467387/115497034-e04dde80-a238-11eb-9ab1-f991f2c5db97.mov
+
